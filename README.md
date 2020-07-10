@@ -17,3 +17,5 @@ I normalized the score between 0 to 5. **Anything less than 2.5 considered as SP
 3. I have used Plotly to display SPAM Score graph.***
 
 **Programming Language:** Python3.7
+
+Test the webapp using the given link (https://email-spamclassification.herokuapp.com/)
